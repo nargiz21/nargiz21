@@ -4,7 +4,7 @@
  :woman_technologist: About Me :
 I'm a front end developer from Azerbaijan.
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-nargiz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/n%C9%99rgiz-%C9%99hm%C9%99dova)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
